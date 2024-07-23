@@ -56,12 +56,12 @@ body
 .apresentacao__conteudo__titulo 
 {
     font-family: var(--fonte-principal);
-    font-size: 28px;
+    font-size: 1.75rem;
 }
 
 .apresentacao__conteudo__texto {
     font-family: var(--fonte-secundaria);
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .apresentacao__conteudo__paragrafo__about{
@@ -70,7 +70,7 @@ body
 
 .apresentacao__conteudo__about {
     font-family: var(--fonte-secundaria);
-    font-size: 16px;
+    font-size: 1rem;
     justify-content: baseline;
 }
 
@@ -86,7 +86,7 @@ body
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 18px;
+    font-size: 1.125rem;
     color: var(--cor-terciaria);
     text-decoration: none;
 }
@@ -105,7 +105,7 @@ body
     width: 180px;
     text-align: center;
     border-radius: 16px;
-    font-size: 24px;
+    font-size: 1.5rem;
     padding: 14px;
     text-decoration: none;
     font-weight: 600;
@@ -135,7 +135,7 @@ body
     gap: 12px;
     text-align: center;
     border-radius: 16px;
-    font-size: 18px;
+    font-size: 1.125rem;
     padding: 10px;
     text-decoration: none;
     font-weight: 600;
@@ -149,13 +149,13 @@ body
 .CarlSagan__ref{
     font-family: var(--fonte-secundaria);
     text-align: right;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .access-my-networks {
     font-family: var(--fonte-principal);
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1rem;
     text-align: center;
 }
 
@@ -165,7 +165,7 @@ body
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family:var(--fonte-secundaria);
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .image__bc{
