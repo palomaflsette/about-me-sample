@@ -206,7 +206,7 @@ body
     }
 
     .apresentacao__imagem {
-        width: auto;
+        width: 150%;
     }
 
     .image__about {
@@ -214,11 +214,16 @@ body
     }
 
     .image__bc {
-        width: 90%;
+        width: 100%;
     }
 
     .apresentacao__links__navegacao {
         width: 30%;
+        font-size: medium;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 24px;
     }
 
     
